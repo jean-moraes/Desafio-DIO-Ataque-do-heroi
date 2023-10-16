@@ -1,18 +1,8 @@
-
-Escrevendo as Classes de Um Jogo
-
-
-
-Entendendo o Desafio
- 
-Agora é a sua hora de brilhar e construir um perfil de destaque na DIO! Explore todos os conceitos explorados até aqui e replique (ou melhore, porque não?) este projeto prático. Para isso, crie seu próprio repositório e aumente ainda mais seu portfólio de projetos no GitHub, o qual pode fazer toda diferença em suas entrevistas técnicas 😎
- 
-Neste repositório, insira todos os links e arquivos necessários para seu projeto, seja um arquivo de banco de dados ou um link para o template no Figma.
- 
-Dica: Se o expert forneceu um repositório Github, você pode dar um "fork" no repositório dele para organizar suas alterações e evoluções mantendo uma referência direta ao código-fonte original.
- 
-Instruções para entrega
-# 3️⃣ Escrevendo as classes de um Jogo
+# DESAFIO DE PROJETO DO FELIPÃO
+ #### *nesse desafio me propus a trabalhar minha lógica de programação para resolver o problema proposto, parece simples mas é um ótimo exercício para usar laços de repetição, estruturas de decisão, funções e principalemnte classes e objetos*
+
+
+# Escrevendo as classes de um Jogo
 
 **O Que deve ser utilizado**
 
@@ -51,9 +41,9 @@ Ao final deve se exibir uma mensagem:
   guerreiro atacou usando espada
  
 
- 
-Bons estudos 😉
-CONTEÚDOS
-INFORMAÇÕES
-Desafio Lançado!
-Entendendo o Desafio
+## [meu linkedin aqui](https://www.linkedin.com/in/jean-christian-de-moraes-24005a234/) 😎💻🚀
+
+
+
+
+
